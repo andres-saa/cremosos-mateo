@@ -111,7 +111,10 @@ onBeforeMount(() => {
 })
 
 
-const currntText = ref(`Hola,vi en su pagina web el producto  https://cremositosmateo${route.fullPath}  *${route.params.product_name}*  por un precio de  *$${store.currentProduct.price }*  me gustaria obtener mas informacion`)
+
+const productUrl = encodeURI(`https://cremososmateo.com${route.fullPath}`)
+
+const currntText = ref(`Hola,vi en su pagina web el producto  ${productUrl}  *${route.params.product_name}*  por un precio de  *$${store.currentProduct.price }*  me gustaria obtener mas informacion`)
 
 
 
