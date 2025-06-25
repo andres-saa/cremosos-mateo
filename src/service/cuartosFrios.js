@@ -1,6 +1,6 @@
 const products = [
   {
-    name: "🍇 Cremosito de Mora",
+    name: "🍇 Caserito de Mora",
     price: 3000,
     text_color: "#a3224a", // morado intenso
     background_color: "#e3bdc9", // pastel morado
@@ -11,7 +11,7 @@ const products = [
     descipcion: `
       ¡Frutos del bosque a otro nivel! 🌿
       Cremoso y refrescante, con el dulzor natural de la mora y su color morado intenso.
-      Cada cucharada es como una escapada a la campiña. 🏞️✨
+      Cada bocado es como una escapada a la campiña. 🏞️✨
     `,
     images: [
       "/images/helados/mora/1.jpg",
@@ -20,7 +20,7 @@ const products = [
     videos: ["https://youtube.com/shorts/zYOdZPVTLpE?feature=share"],
   },
   {
-    name: "🥥 Cremosito de Coco",
+    name: "🥥 Caserito de Coco",
     price: 3000,
     text_color: "#7a4b33", // marrón coco
     background_color: "#d7c9c2", // pastel coco
@@ -42,7 +42,7 @@ const products = [
     ]
   },
   {
-    name: "🍊 Cremosito de Maracuyá",
+    name: "🍊 Caserito de Maracuyá",
     price: 3000,
     text_color: "#fe8301", // naranja maracuyá
     background_color: "#ffdab3", // pastel maracuyá
@@ -59,7 +59,7 @@ const products = [
     videos:['https://youtube.com/shorts/sd00cOOLPOc?feature=share']
   },
   {
-    name: "🍬 Cremosito de Chicle",
+    name: "🍬 Caserito de Chicle",
     price: 3000,
     text_color: "#32b192", // rosa chicle (hex turquesa)
     background_color: "#c2e8de", // pastel chicle
@@ -76,7 +76,7 @@ const products = [
     videos:['https://youtube.com/shorts/P4Iv5HrNWgI?feature=share']
   },
   {
-    name: "🍓 Cremosito de Fresa",
+    name: "🍓 Caserito de Fresa",
     price: 3000,
     text_color: "#ff4d6a", // rojo fresa
     background_color: "#ffcad2", // pastel fresa
@@ -85,7 +85,7 @@ const products = [
     medidas: "2 m × 2 m × 2.40 m",
     voltaje: "220 V",
     descipcion: `
-      Frescura de huerta en cada cucharada 🍓
+      Frescura de huerta en cada bocado 🍓
       Con trocitos de fresa natural y un aroma que enamora.
       Un clásico que nunca falla. ❤️
     `,
@@ -93,7 +93,7 @@ const products = [
     videos:['https://youtube.com/shorts/uhLmpgYQP0k?feature=share']
   },
   {
-    name: "🥜 Cremosito de Maní",
+    name: "🥜 Caserito de Maní",
     price: 3000,
     text_color: "#d9a066", // dorado maní
     background_color: "#f4e2d1", // pastel maní
@@ -110,7 +110,7 @@ const products = [
     videos:['https://youtube.com/shorts/DRwnJUd7JYg?feature=share']
   },
   {
-    name: "🍍 Cremosito de Piña",
+    name: "🍍 Caserito de Piña",
     price: 3000,
     text_color: "#f7c200", // amarillo piña
     background_color: "#fdedb2", // pastel piña
@@ -127,7 +127,7 @@ const products = [
     videos:['https://youtube.com/shorts/N4M5YiBr1IE?feature=share']
   },
   {
-    name: "🧀 Cremosito de Queso",
+    name: "🧀 Caserito de Queso",
     price: 3000,
     text_color: "#3d1d20", // amarillo queso (marrón oscuro)
     background_color: "#c5bbbc", // pastel queso
